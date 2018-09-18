@@ -1,1 +1,3 @@
 Text for Git
+test line 1
+test line 2
