@@ -1,3 +1,6 @@
 Test dev
 Some text (branch master)
 Hot fix
+New line
+Another line
+More lines, lines
