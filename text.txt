@@ -1,2 +1,3 @@
 Test dev
 Some text (branch master)
+Hot fix
