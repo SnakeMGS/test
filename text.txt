@@ -3,4 +3,4 @@ Some text (branch master)
 Hot fix
 New line
 Another line
-More lines, lines
+More lines, lines, lines, lines
